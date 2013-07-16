@@ -8,5 +8,7 @@ Change Log
 ==========
 
 +Started making webpage
+
 +Added basic error pages
+
 +Fixed header displaying incorrectly in Internet Explorer and Firefox
