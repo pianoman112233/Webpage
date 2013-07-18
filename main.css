@@ -1,0 +1,23 @@
+body{
+ margin: 0%;
+}
+
+.header{
+ background-color: #ccc;
+ padding-left: 0px;
+ padding-right: 0px;
+ width: 100%;
+ height: 50px;
+}
+.centre{
+ margin: 0px auto;
+}
+#menu{
+ background-color: #aaa;
+ margin: 0px auto;
+ padding-left:20px;
+ padding-right:20px;
+ width: 100%;
+ height: 25px;
+ text-align: left;
+}

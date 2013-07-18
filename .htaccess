@@ -1,0 +1,5 @@
+errordocument 400 /index.php?error=400
+errordocument 401 /index.php?error=401
+errordocument 403 /index.php?error=403
+errordocument 404 /index.php?error=404
+errordocument 500 /index.php?error=500
