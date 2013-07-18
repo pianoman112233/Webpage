@@ -1,7 +1,7 @@
 <?php
 //This file contains all main variables and anything that goes in the header. this must be included in every file
 
-$root="http://25.12.217.108";
+$root="http://0.0.0.0";//url here
 $css=$root."/css/main.css";
 $js=$root."/javascript";
 $jq=$js."/jquery.js";
